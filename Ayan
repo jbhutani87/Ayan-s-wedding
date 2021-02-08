@@ -1,0 +1,7 @@
+echo "# Ayan-s-wedding" >> README.md
+git init
+git remote add origin https://github.com/jbhutani87/Ayan-s-wedding.git
+git add .
+git commit -m “initial commit”
+git push origin master
+
